@@ -9,7 +9,7 @@
 /// @see     https://linuxcommand.org/lc3_man_pages/wc1.html
 ///
 /// @file    wc.c
-/// @author  Thanh Ly  thanhly@hawaii.edu
+/// @author  Thanh Ly
 ///////////////////////////////////////////////////////////////////////////////
 
 #include <stdio.h>          // printf()
